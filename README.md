@@ -1,7 +1,9 @@
 # DAA-AAT-1BM22AI137
-The solution for the DAA AAT Hackerrank challenge:
+The solution for the DAA AAT Hackerrank challenge.
 
-1.https://www.hackerrank.com/challenges/unbounded-knapsack/problem?isFullScreen=true
+The questions can be found here:
+
+1. https://www.hackerrank.com/challenges/unbounded-knapsack/problem?isFullScreen=true
 
 2. https://www.hackerrank.com/challenges/cloudy-day/problem?isFullScreen=true
 
